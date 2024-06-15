@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "declaration": true,
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "declarationDir": "./dist/index.d.ts",
+      "strict": true,
+      "moduleResolution": "node",
+      "forceConsistentCasingInFileNames": true,
+      "allowSyntheticDefaultImports":true,
+      "module": "esnext",
+      "jsx": "preserve",
+    },
+  }
+  
